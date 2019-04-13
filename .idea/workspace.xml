@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2c1a58c-725f-4b63-8a5f-a30f7db72184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex16/Bob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex17/Nessie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex18/GrassHopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex19/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex20/Alarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex21/Banjo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex22/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex16/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex17/NessieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex18/GrassHopperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex19/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex20/AlarmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex21/BanjoExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex22/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex23/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex24/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex25/KeepHydrated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex26/CharProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex27/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex28/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex29/SmallestIntegerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex30/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex31/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex23/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex24/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex25/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex26/CharProblemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex27/KataTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex28/JavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex29/SmallestIntegerFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex30/ExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex31/CounterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kyu8/cwex15/Bio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kyu8/cwex15/Bio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/cw-programs.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/cw-programs.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,24 +32,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex22/Kata.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex31/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="510">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex22/SolutionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex31/CounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,11 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/kyu8/PhoneExampleTests.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex2/KataTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex3/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex4/SampleTestCases.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex5/KataTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex5/KataTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex6/OppositeExampleTests.java" />
@@ -103,6 +108,24 @@
         <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex21/Banjo.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex22/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex22/Kata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex23/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex23/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex24/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex24/Kata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex25/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex25/KeepHydrated.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex26/CharProblemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex26/CharProblem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex27/KataTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex27/Kata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex28/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex28/Java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex29/SmallestIntegerFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex29/SmallestIntegerFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex30/ExampleTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex30/Kata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/cwex31/CounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/cwex31/Counter.java" />
       </list>
     </option>
   </component>
@@ -114,8 +137,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1909" />
-    <option name="width" value="1940" />
+    <option name="x" value="1890" />
+    <option name="width" value="1961" />
     <option name="height" value="2111" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -125,7 +148,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,6 +185,15 @@
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu8" type="462c0819:PsiDirectoryNode" />
+              <item name="cwex31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,14 +211,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="kyu8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu8" type="462c0819:PsiDirectoryNode" />
+              <item name="cwex31" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555070419633" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555139312456" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -215,75 +257,77 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest (1)">
-    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex22.Kata" />
-      <module name="cw-programs" />
+  <component name="RunManager" selected="JUnit.CounterTest">
+    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex22.*" />
+          <option name="PATTERN" value="kyu8.cwex31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlarmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu8.cwex20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex20" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex20.AlarmTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex31" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex31.CounterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BanjoExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+    <configuration name="ExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex21.*" />
+          <option name="PATTERN" value="kyu8.cwex30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex21" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex21.BanjoExampleTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex30" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex30.ExampleTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+    <configuration name="JavaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex22.*" />
+          <option name="PATTERN" value="kyu8.cwex28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex22" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex22.SolutionTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex28" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex28.JavaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+    <configuration name="KataTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex19.*" />
+          <option name="PATTERN" value="kyu8.cwex27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex19" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex19.SolutionTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex27" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex27.KataTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestIntegerFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.cwex29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu8.cwex29" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex29.SmallestIntegerFinderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest (1)" />
-        <item itemvalue="Application.Kata" />
-        <item itemvalue="JUnit.BanjoExampleTest" />
-        <item itemvalue="JUnit.AlarmTest" />
-        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.CounterTest" />
+        <item itemvalue="JUnit.ExampleTests" />
+        <item itemvalue="JUnit.SmallestIntegerFinderTest" />
+        <item itemvalue="JUnit.JavaTest" />
+        <item itemvalue="JUnit.KataTests" />
       </list>
     </recent_temporary>
   </component>
@@ -313,35 +357,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest - 2019.04.11 at 12h 08m 39s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="KataTests - 2019.04.13 at 13h 01m 42s.xml">
+      <configuration name="KataTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.04.11 at 12h 09m 04s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="JavaTest - 2019.04.13 at 13h 09m 01s.xml">
+      <configuration name="JavaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.04.11 at 12h 25m 43s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="JavaTest - 2019.04.13 at 13h 10m 59s.xml">
+      <configuration name="JavaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlarmTest - 2019.04.12 at 08h 53m 02s.xml">
-      <configuration name="AlarmTest" configurationId="JUnit" />
+    <history-entry file="JavaTest - 2019.04.13 at 13h 11m 07s.xml">
+      <configuration name="JavaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlarmTest - 2019.04.12 at 08h 53m 29s.xml">
-      <configuration name="AlarmTest" configurationId="JUnit" />
+    <history-entry file="JavaTest - 2019.04.13 at 13h 11m 24s.xml">
+      <configuration name="JavaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BanjoExampleTest - 2019.04.12 at 11h 12m 46s.xml">
-      <configuration name="BanjoExampleTest" configurationId="JUnit" />
+    <history-entry file="JavaTest - 2019.04.13 at 13h 11m 33s.xml">
+      <configuration name="JavaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BanjoExampleTest - 2019.04.12 at 11h 13m 03s.xml">
-      <configuration name="BanjoExampleTest" configurationId="JUnit" />
+    <history-entry file="SmallestIntegerFinderTest - 2019.04.13 at 13h 20m 16s.xml">
+      <configuration name="SmallestIntegerFinderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_(1) - 2019.04.12 at 14h 33m 27s.xml">
-      <configuration name="SolutionTest (1)" configurationId="JUnit" />
+    <history-entry file="ExampleTests - 2019.04.13 at 13h 24m 40s.xml">
+      <configuration name="ExampleTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_(1) - 2019.04.12 at 14h 57m 09s.xml">
-      <configuration name="SolutionTest (1)" configurationId="JUnit" />
+    <history-entry file="ExampleTests - 2019.04.13 at 13h 27m 49s.xml">
+      <configuration name="ExampleTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_(1) - 2019.04.12 at 15h 00m 22s.xml">
-      <configuration name="SolutionTest (1)" configurationId="JUnit" />
+    <history-entry file="CounterTest - 2019.04.13 at 15h 42m 58s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -354,9 +398,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1407" extended-state="0" />
+    <frame x="1273" y="0" width="1293" height="1407" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33576643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36090836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +410,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,136 +458,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex1/PhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex1/PhoneExampleTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex2/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex2/KataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex3/TotalPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex3/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex4/SampleTestCases.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex4/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex5/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex5/KataTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex6/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex6/OppositeExampleTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex7/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex7/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex8/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex8/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -793,16 +708,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="2178" column="5" lean-forward="true" selection-start-line="2178" selection-start-column="5" selection-end-line="2178" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex22/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -813,7 +721,190 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex22/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex23/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex23/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex24/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex24/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex25/KeepHydrated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex25/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
+          <folding>
+            <element signature="e#23072#23073#0" expanded="true" />
+            <element signature="e#23112#23113#0" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex26/CharProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex26/CharProblemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex27/KataTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex27/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex28/Java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex28/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex29/SmallestIntegerFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex29/SmallestIntegerFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex30/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex30/ExampleTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/cwex31/CounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/cwex31/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
