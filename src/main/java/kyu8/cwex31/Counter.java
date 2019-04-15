@@ -27,9 +27,11 @@ public class Counter {
         }
 
         int countSheeps = 0;
-        for (boolean element : arrayOfSheeps) {
-            if (element) {
-                countSheeps ++;
+        for (Boolean element : arrayOfSheeps) {
+            if(element == null) {
+                break;
+            } else if (element) {
+                countSheeps++;
             }
         }
 
