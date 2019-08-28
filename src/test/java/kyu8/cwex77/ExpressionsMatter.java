@@ -1,0 +1,26 @@
+package kyu8.cwex77;
+
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+
+public class ExpressionsMatter {
+    @Test
+    public void checkSmallValues() {
+        assertEquals(6, Kata.expressionsMatter(2, 1, 2));
+        assertEquals(3, Kata.expressionsMatter(1, 1, 1));
+        assertEquals(4, Kata.expressionsMatter(2, 1, 1));
+        assertEquals(9, Kata.expressionsMatter(1, 2, 3));
+        assertEquals(5, Kata.expressionsMatter(1, 3, 1));
+        assertEquals(8, Kata.expressionsMatter(2, 2, 2));
+    }
+
+    @Test
+    public void checkIntermediateValues() {
+        assertEquals(20, Kata.expressionsMatter(5, 1, 3));
+        assertEquals(105, Kata.expressionsMatter(3, 5, 7));
+        assertEquals(35, Kata.expressionsMatter(5, 6, 1));
+        assertEquals(8, Kata.expressionsMatter(1, 6, 1));
+        assertEquals(14, Kata.expressionsMatter(2, 6, 1));
+        assertEquals(48, Kata.expressionsMatter(6, 7, 1));
+    }
+}
