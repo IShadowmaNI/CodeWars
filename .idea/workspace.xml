@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2c1a58c-725f-4b63-8a5f-a30f7db72184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex75/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex76/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex77/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex75/StringyExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex76/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex77/ExpressionsMatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex78/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex79/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex80/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex81/GrassHopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex82/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex83/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex84/ZywOo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex85/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex86/TipCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex78/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex79/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex80/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex81/GrassHopperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex82/ExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex83/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex84/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex85/DigitizeExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex86/TipCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/CodeWars.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/CodeWars.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,49 +82,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExpressionsMatter">
-    <configuration name="ExpressionsMatter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TipCalculatorTest">
+    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex85.Kata" />
       <module name="cw-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex77.*" />
+          <option name="PATTERN" value="kyu8.cwex85.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex77" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex77.ExpressionsMatter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitizeExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.cwex85.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu8.cwex85" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex85.DigitizeExampleTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonkeyCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
+    <configuration name="SolutionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex74.*" />
+          <option name="PATTERN" value="kyu8.cwex84.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex74" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex74.MonkeyCounterTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex84" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex84.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MonkeyCounterTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu8.cwex74.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex74" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex74.MonkeyCounterTest" />
-      <option name="METHOD_NAME" value="basicTests" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,27 +130,27 @@
       <module name="cw-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex76.*" />
+          <option name="PATTERN" value="kyu8.cwex83.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex76" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex76.SolutionTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex83" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex83.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringyExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TipCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cw-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex75.*" />
+          <option name="PATTERN" value="kyu8.cwex86.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex75" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex75.StringyExampleTests" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex86" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex86.TipCalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ExpressionsMatter" />
+        <item itemvalue="JUnit.TipCalculatorTest" />
+        <item itemvalue="JUnit.DigitizeExampleTests" />
+        <item itemvalue="Application.Kata" />
+        <item itemvalue="JUnit.SolutionTest (1)" />
         <item itemvalue="JUnit.SolutionTest" />
-        <item itemvalue="JUnit.StringyExampleTests" />
-        <item itemvalue="JUnit.MonkeyCounterTest.basicTests" />
-        <item itemvalue="JUnit.MonkeyCounterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1554728430809</updated>
       <workItem from="1566889139565" duration="1992000" />
-      <workItem from="1566906081261" duration="12626000" />
+      <workItem from="1566906081261" duration="13252000" />
+      <workItem from="1580104360897" duration="20366000" />
     </task>
     <servers />
   </component>
