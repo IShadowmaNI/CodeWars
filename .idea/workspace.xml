@@ -2,27 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2c1a58c-725f-4b63-8a5f-a30f7db72184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex78/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex79/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex80/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex81/GrassHopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex82/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex83/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex84/ZywOo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex85/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex86/TipCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex78/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex79/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex80/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex81/GrassHopperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex82/ExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex83/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex84/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex85/DigitizeExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex86/TipCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex100/ZywOo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex101/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex102/ZywOo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex87/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex88/MixedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex89/Goals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex90/Cockroach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex91/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex92/ZywOo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex93/SortAndStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex94/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex95/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex96/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex97/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex98/NoBoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/cwex99/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex100/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex101/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex102/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex87/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex88/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex89/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex90/CockroachSpeedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex91/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex92/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex93/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex94/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex95/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex96/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex97/FactorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex98/NoBoringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/cwex99/BonusTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/cw-programs.kotlin_module" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +65,11 @@
   </component>
   <component name="ProjectId" id="1PzuEsH6ORiFMmczNr9B1qvg8Nw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -70,99 +90,90 @@
       <recent name="D:\dev\projects\CodeWars\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.TipCalculatorTest">
-    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex85.Kata" />
-      <module name="cw-programs" />
+  <component name="RunManager" selected="JUnit.SolutionTest (2)">
+    <configuration name="BonusTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex85.*" />
+          <option name="PATTERN" value="kyu8.cwex99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitizeExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu8.cwex85.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex85" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex85.DigitizeExampleTests" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex99" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex99.BonusTimeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SolutionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex84.*" />
+          <option name="PATTERN" value="kyu8.cwex101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex84" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex84.SolutionTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex101" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex101.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.cwex102.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu8.cwex102" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex102.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex83.*" />
+          <option name="PATTERN" value="kyu8.cwex100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex83" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex83.SolutionTest" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex100" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex100.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cw-programs" />
+    <configuration name="SolutionTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.cwex86.*" />
+          <option name="PATTERN" value="kyu8.cwex102.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8.cwex86" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.cwex86.TipCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="kyu8.cwex102" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.cwex102.SolutionTest" />
+      <option name="METHOD_NAME" value="basicTests" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TipCalculatorTest" />
-        <item itemvalue="JUnit.DigitizeExampleTests" />
-        <item itemvalue="Application.Kata" />
+        <item itemvalue="JUnit.SolutionTest (2)" />
+        <item itemvalue="JUnit.SolutionTest.basicTests" />
         <item itemvalue="JUnit.SolutionTest (1)" />
         <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.BonusTimeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +189,12 @@
       <updated>1554728430809</updated>
       <workItem from="1566889139565" duration="1992000" />
       <workItem from="1566906081261" duration="13252000" />
-      <workItem from="1580104360897" duration="20366000" />
+      <workItem from="1580104360897" duration="31974000" />
+      <workItem from="1580558210318" duration="1122000" />
+      <workItem from="1580887065967" duration="47000" />
+      <workItem from="1580887317694" duration="10420000" />
+      <workItem from="1581413617922" duration="20000" />
+      <workItem from="1581413648884" duration="11814000" />
     </task>
     <servers />
   </component>
@@ -206,6 +222,36 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1394" y="378" key="#Notifications" timestamp="1581413630267">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state x="-1394" y="378" key="#Notifications/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581413630267" />
+    <state x="-867" y="297" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580888797479">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state x="-867" y="297" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1580888797479" />
+    <state x="-1306" y="448" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581413635534">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state x="-1306" y="448" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581413635534" />
+    <state width="914" height="172" key="GridCell.Tab.0.bottom" timestamp="1581431766359">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state width="914" height="172" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581431766359" />
+    <state width="914" height="172" key="GridCell.Tab.0.center" timestamp="1581431766359">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state width="914" height="172" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581431766359" />
+    <state width="914" height="172" key="GridCell.Tab.0.left" timestamp="1581431766359">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state width="914" height="172" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581431766359" />
+    <state width="914" height="172" key="GridCell.Tab.0.right" timestamp="1581431766359">
+      <screen x="-1920" y="197" width="1920" height="1040" />
+    </state>
+    <state width="914" height="172" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.197.1920.1040@-1920.197.1920.1040" timestamp="1581431766359" />
   </component>
   <component name="masterDetails">
     <states>
